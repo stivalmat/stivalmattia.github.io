@@ -1,0 +1,21 @@
+# Teaching
+
+I teach statistics at undergraduate, master’s and doctoral level, combining statistical reasoning, applications and reproducible data analysis.
+
+## Current teaching
+
+### Academic year 2026/27
+
+- [**R Coding and Finance Analytics**](https://www.unive.it/data/insegnamento/561374) — Corso di laurea magistrale in *Economics, Finance and Sustainability*, Ca’ Foscari University of Venice.
+
+- [**Statistica 1 — Esercitazioni Mod. 1**](https://www.unive.it/data/insegnamento/578255) — Corso di laurea in *Commercio estero e turismo*, Ca’ Foscari University of Venice. Classes for students with surnames A–La and [Lb–Z](https://www.unive.it/data/insegnamento/578253).
+
+- [**Precorso — Laboratory of Quantitative Methods**](https://www.unive.it/data/insegnamento/731094) — Corso di laurea magistrale in *Tourism Management and Sustainability*, Ca’ Foscari University of Venice.
+
+## Doctoral teaching
+
+- **Statistics** and **Social and Health Statistics** — Dottorato di ricerca in *Public Administration*, Ca’ Foscari University of Venice and University of Milano-Bicocca. Taught in **2023, 2024 and 2025**.
+
+## Thesis supervision
+
+I am available to supervise bachelor’s and master’s theses with a substantial statistical component. Relevant topics include health inequalities, environment and health, population ageing, sport analytics, Bayesian statistics, time-series models and interpretable machine learning.

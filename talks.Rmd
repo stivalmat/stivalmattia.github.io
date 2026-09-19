@@ -1,0 +1,10 @@
+---
+title: "Proceedings, talks and slides"
+---
+
+Conference proceedings, presentations, seminars and posters are grouped below. Links to slides or posters appear when the material is publicly available.
+
+<div id="talk-groups" class="accordion-list" aria-live="polite"></div>
+
+<script src="data/site-data.js"></script>
+<script src="assets/site.js"></script>

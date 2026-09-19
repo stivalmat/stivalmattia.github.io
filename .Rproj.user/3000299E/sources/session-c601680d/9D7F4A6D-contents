@@ -1,0 +1,29 @@
+name: "mattia-stival-website"
+output_dir: "."
+navbar:
+  title: "Mattia Stival"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Talks & slides"
+      href: talks.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "whAI?"
+      href: whai.html
+    - text: "News"
+      href: news.html
+    - text: "Outside the university"
+      href: outside.html
+output:
+  html_document:
+    self_contained: false
+    css: assets/style.css
+    lib_dir: site_libs
+    includes:
+      in_header: head.html
+exclude: ["README.md", "README_RStudio.md"]
